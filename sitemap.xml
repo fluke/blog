@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+<loc>https://localhost:2368/</loc>
+</url>
+<url>
+<loc>https://localhost:2368/rss/</loc>
+</url>
+<url>
+<loc>https://localhost:2368/welcome-to-ghost/</loc>
+</url>
+<url>
+<loc>https://localhost:2368/author/kartik-luke-singh/</loc>
+</url>
+<url>
+<loc>https://localhost:2368/tag/getting-started/</loc>
+</url>
+<url>
+<loc>https://localhost:2368/author/kartik-luke-singh/rss/</loc>
+</url>
+</urlset>
